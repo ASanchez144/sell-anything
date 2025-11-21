@@ -1,0 +1,7 @@
+{
+  "name": "SellSmart AI",
+  "description": "An AI-powered assistant for second-hand sellers. Analyze items, optimize descriptions, and enhance product photos using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
